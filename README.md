@@ -1,6 +1,13 @@
-## Hi there 👋
+## Yaroslav Lõhmus
 
-[![My Skills](https://skillicons.dev/icons?i=js,ansible,arch,azure,bash,cs,docker,gcp,githubactions,go,kubernetes,linux,nginx,postgres,prometheus,grafana,py,redis,terraform,)](https://skillicons.dev)
+Experienced Cloud Architect/DevSecOps engineer, fullstack developer in the freetime.
+
+### Clouds I specialize in
+[![Cloud](https://skillicons.dev/icons?i=azure,gcp)]
+
+### DevSecOps specialist skills
+[![My Skills](https://skillicons.dev/icons?i=js,ansible,arch,azure,bash,cs,docker,gcp,githubactions,go,kubernetes,linux,nginx,postgres,prometheus,grafana,py,redis,terraform)](https://skillicons.dev)
+
 <!--
 **yaroslav-lohmus/yaroslav-lohmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
