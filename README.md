@@ -3,7 +3,10 @@
 Experienced Cloud Architect/DevSecOps engineer, fullstack developer in the freetime.
 
 ### Clouds I specialize in
-[![Cloud](https://skillicons.dev/icons?i=azure,gcp)]
+![Cloud](https://skillicons.dev/icons?i=gcp,azure)
+
+### Programming Languages I've used
+![Programming Languages](https://skillicons.dev/icons?i=js,ts,bash,cs,go,py,java,php)
 
 ### DevSecOps specialist skills
 [![My Skills](https://skillicons.dev/icons?i=js,ansible,arch,azure,bash,cs,docker,gcp,githubactions,go,kubernetes,linux,nginx,postgres,prometheus,grafana,py,redis,terraform)](https://skillicons.dev)
