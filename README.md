@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ansible,arch,azure,bash,cs,docker,gcp,githubactions,go,kubernetes,linux,nginx,postgres,prometheus,grafana,py,redis,terraform,)](https://skillicons.dev)
 <!--
 **yaroslav-lohmus/yaroslav-lohmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
