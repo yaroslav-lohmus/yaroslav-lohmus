@@ -5,7 +5,7 @@ Experienced Cloud Architect/DevSecOps engineer, fullstack developer in the freet
 ### Clouds I specialize in
 ![Cloud](https://skillicons.dev/icons?i=gcp,azure)
 
-### Programming Languages I've used
+### Programming Languages I use
 ![Programming Languages](https://skillicons.dev/icons?i=js,ts,bash,cs,go,py,java,php)
 
 ### DevSecOps specialist skills
