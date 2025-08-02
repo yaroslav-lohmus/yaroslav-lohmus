@@ -1,6 +1,6 @@
 ## Yaroslav Lõhmus
 
-Experienced Cloud Architect/DevSecOps engineer, fullstack developer in the freetime.
+Experienced Cloud Architect/DevSecOps engineer, fullstack developer in the free time.
 
 ### Clouds I specialize in
 ![Cloud](https://skillicons.dev/icons?i=gcp,azure)
