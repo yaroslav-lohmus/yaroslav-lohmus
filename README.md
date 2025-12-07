@@ -1,5 +1,4 @@
 ## Yaroslav Lõhmus
-[![Visitors](https://hits.sh/github.com/yaroslav-lohmus/hits.svg)](https://hits.sh/github.com/yaroslav-lohmus/hits/)
 
 Experienced Cloud Architect/DevSecOps engineer, fullstack developer in the free time.
 
