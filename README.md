@@ -1,6 +1,8 @@
 ## Yaroslav Lõhmus
 
-Experienced computer engineer and tinkerer, I build stuff.
+Experienced computer engineer and tinkerer. 
+
+I build stuff.
 
 ### Clouds I specialize in
 ![Cloud](https://skillicons.dev/icons?i=gcp,azure)
